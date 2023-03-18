@@ -14,7 +14,7 @@
 本文将从零开始详述在Windows10/11上搭建OpenVINO+YOLOv5开发环境。
 
 ###  安装并配置Anaconda
-#### 下载并安装Anaconda
+**第一步**，下载并安装Anaconda
 <span id="2">Anaconda</span>([官方网站](https://www.anaconda.com/))是Python软件包(packages)和虚拟环境(virtual environment)的管理工具，让Python开发者能方便快捷地管理Python运行的虚拟环境和开发应用程序所依赖的各种软件包。
 
 从[Anaconda官网](https://www.anaconda.com/)下载最新的Anaconda安装文件，双击安装。
@@ -23,12 +23,12 @@
 
 ![勾选“Add Anaconda to my PATH environment variable”](pic/anaconda_advanced_option.png)
 
-#### 配置Anaconda国内镜像源
+**第二步**， 配置Anaconda国内镜像源
 参考[Anaconda 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)，完成Anaconda国内镜像源配置，这样可以极大的提高Python软件包的下载速度。
 
 注意: Windows 用户无法直接创建名为 .condarc 的文件，可先执行 conda config --set show_channel_urls yes 生成该文件之后再修改
 
-#### 创建并激活虚拟环境ov_book
+**第三步**， 创建并激活虚拟环境ov_book
 打开**命令提示符** 窗口，输入命令更新当前conda
 > conda update conda
 

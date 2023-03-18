@@ -50,7 +50,7 @@ Git是一个开源免费的分布式版本控制系统，不管是小项目还�
 
 第二步，打开*命令提示符*窗口，激活ov_book虚拟环境，进入yolov5文件夹，安装YOLOv5所需的依赖软件包。
 >activate ov_book
-pip install -r requirements.txt
+>pip install -r requirements.txt
 
 ![安装YOLOv5所需的依赖软件包](pic/install_yolov5.png)
 

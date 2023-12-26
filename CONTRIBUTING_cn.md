@@ -23,7 +23,7 @@
 
 &emsp;   找到要提交PR的项目，先将该项目fork自己的代码仓。
 
-<div align=center><span><img src="https://s2.loli.net/2023/12/09/wFICoTLxUj9NiJ2.jpg" height=500/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/Create_fork.png" height=500/></span></div>
 
 <div align=center><span><img src="https://s2.loli.net/2023/12/09/G4UYbH85pQOJfxa.jpg" height=500/></span></div>
 

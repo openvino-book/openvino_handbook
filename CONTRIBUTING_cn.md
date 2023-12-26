@@ -87,22 +87,24 @@ git add .  // 将修改的文件存放到暂存区
 git commit -m "日志信息" // 将修改的文件提交到本地库
 git push origin main // 推送到远程仓库
 ```
-
-&emsp;   在GitHub切换到master主分支，查看是否合并成功
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/push_main.png" height=500/></span></div>
+&emsp;   在GitHub切换到main主分支，查看是否合并成功
 
 #### 4.提交pr请求
 
-&emsp;   进入自己`fork`的项目中，点击下方所指使的位置。
+&emsp;   进入自己`fork`的项目中，点击“xx commit ahead of”。
 
-<div align=center><span><img src="https://s2.loli.net/2023/12/09/MjCINlbSD4Rx7sA.jpg" height=500/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/commit_ahead_of.png" height=500/></span></div>
 
 &emsp;   点击`Create pull requests`
 
-<div align=center><span><img src="https://s2.loli.net/2023/12/09/nNcUd8phGWfj1LH.jpg" height=500/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/Create_pr.png" height=500/></span></div>
 
 &emsp;   最后点击`Create pull request`，提交后开源人将会收到你的合并请求。
 
-<div align=center><span><img src="https://s2.loli.net/2023/12/09/lXCmnEdpYIbai8D.jpg" height=500/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/create_pull_request.png" height=500/></span></div>
+
+到此，PR提交完毕！
 
 ## ⭕编码规范
 

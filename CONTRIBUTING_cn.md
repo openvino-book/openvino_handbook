@@ -23,9 +23,9 @@
 
 &emsp;   找到要提交PR的项目，先将该项目fork自己的代码仓。
 
-<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/Create_fork.png" height=500/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/Fork.png" height=500/></span></div>
 
-<div align=center><span><img src="https://s2.loli.net/2023/12/09/G4UYbH85pQOJfxa.jpg" height=500/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/Create_fork.png" height=500/></span></div>
 
 ####  2. 克隆开源项目
 
@@ -33,25 +33,25 @@
 
 ```
 //打开CMD或者打开Git Bash Here
-git clone https://github.com/guojin-yan/OpenVINO-CSharp-API.git
+git clone https://github.com/dlod-openvino/openvino_handbook.git
 ```
 
-<div align=center><span><img src="https://s2.loli.net/2023/12/09/GOXw5iLmqf2clea.jpg" height=300/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/clone.png" height=300/></span></div>
 
 #### 3.创建新的分支
 
 &emsp;   提交PR时需要.为了防止在主分支上修改影响主分支代码，此处创建一个分支用于代码的修改。
 
 ```
-cd OpenVINO-CSharp-API // 切换到项目路径
+cd openvino_handbook // 切换到项目路径
 git checkout -b temp //创建名为temp的分支
-git branch //查看已经创建的分支 如图有temph和csharp3.0两个分支
+git branch //查看已经创建的分支 如图有temph和main两个分支
 git checkout temp // 切换到分支
 ```
 
 &emsp;   切换好分支后就可以直接根据自己需求修改项目,如上图所示。
 
-<div align=center><span><img src="https://s2.loli.net/2023/12/09/wW9DcrjzZEekfQT.jpg" height=300/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/clone_temp.png" height=300/></span></div>
 
 
 

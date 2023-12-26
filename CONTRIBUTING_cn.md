@@ -23,9 +23,9 @@
 
 &emsp;   找到要提交PR的项目，先将该项目fork自己的代码仓。
 
-<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/Fork.png" height=500/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/Fork.png" height=400/></span></div>
 
-<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/Create_fork.png" height=500/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/Create_fork.png" height=600/></span></div>
 
 ####  2. 克隆开源项目
 
@@ -36,7 +36,7 @@
 git clone https://github.com/dlod-openvino/openvino_handbook.git
 ```
 
-<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/clone.png" height=300/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/clone.png" height=100/></span></div>
 
 #### 3.创建新的分支
 
@@ -51,7 +51,7 @@ git checkout temp // 切换到分支
 
 &emsp;   切换好分支后就可以直接根据自己需求修改项目,如上图所示。
 
-<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/clone_temp.png" height=300/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/clone_temp.png" height=600/></span></div>
 
 
 
@@ -65,7 +65,7 @@ git add 文件名 // 将修改的文件存放到暂存区
 git commit -m "日志信息" 文件名 // 将修改的文件提交到本地库
 ```
 
-<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/git_push.png" height=300/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/git_push.png" height=800/></span></div>
 
 &emsp;   最后将本地项目代码提交到远程GitHub上
 
@@ -98,7 +98,7 @@ git push origin main // 推送到远程仓库
 
 &emsp;   点击`Create pull requests`
 
-<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/Create_pr.png" height=500/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/Create_pr.png" height=600/></span></div>
 
 &emsp;   最后点击`Create pull request`，提交后开源人将会收到你的合并请求。
 

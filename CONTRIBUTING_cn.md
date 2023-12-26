@@ -65,7 +65,7 @@ git add 文件名 // 将修改的文件存放到暂存区
 git commit -m "日志信息" 文件名 // 将修改的文件提交到本地库
 ```
 
-<div align=center><span><img src="https://s2.loli.net/2023/12/09/i71frOAaZk2FwVU.jpg" height=300/></span></div>
+<div align=center><span><img src="https://github.com/openvino-book/openvino_handbook/blob/main/pic/git_push.png" height=300/></span></div>
 
 &emsp;   最后将本地项目代码提交到远程GitHub上
 
@@ -73,9 +73,7 @@ git commit -m "日志信息" 文件名 // 将修改的文件提交到本地库
 git push --set-upstream origin temp
 ```
 
-&emsp;   进入GitHub项目，切换到mybranch分支，查看是否修改成功。
-
-&emsp;   切换到**主分支**，将分支mybranch代码合并到主分支，查看是否可以与主分支合并成功。
+&emsp;   切换到**主分支**，将分支temp代码合并到主分支，查看是否可以与主分支合并成功。
 
 ```
 git checkout main // 切换到主分支
@@ -87,7 +85,7 @@ git merge temp  // 合并派生分支到主分支
 ```
 git add .  // 将修改的文件存放到暂存区
 git commit -m "日志信息" // 将修改的文件提交到本地库
-git push origin csharp3.0 // 推送到远程仓库
+git push origin main // 推送到远程仓库
 ```
 
 &emsp;   在GitHub切换到master主分支，查看是否合并成功

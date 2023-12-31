@@ -5,7 +5,7 @@
   - [:factory:安装并配置Anaconda](#factory安装并配置anaconda)
   - [:stars:下载并安装Git](#stars下载并安装git)
   - [:speedboat:安装ultralytics并导出yolov8n-cls.onnx模型](#speedboat安装ultralytics并导出yolov8n-clsonnx模型)
-  - [:rocket:安装openvino](#rocket安装openvino)
+  - [:rocket:安装openvino python软件包](#rocket安装openvino-python软件包)
   - [:oncoming\_automobile:安装VS Code](#oncoming_automobile安装vs-code)
 
 
@@ -67,7 +67,7 @@ pip install ultralytics
 yolo export model=yolov8n-cls.pt format=onnx imgsz=224
 ```
 
-### :rocket:安装openvino
+### :rocket:安装openvino python软件包
 
 OpenVINO Python软件包包含：OpenVINO Runtime，OpenVINO Model Converter和benchmark_app，使用命令安装openvino：
 ```

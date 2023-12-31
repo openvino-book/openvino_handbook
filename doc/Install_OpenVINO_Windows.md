@@ -1,7 +1,7 @@
 ## <center>在Windows上搭建OpenVINO™ Python开发环境</center>
 
 - [在Windows上搭建OpenVINO™ Python开发环境](#在windows上搭建openvino-python开发环境)
-  - [简介](#简介)
+  - [:tent:简介](#tent简介)
   - [:factory:安装并配置Anaconda](#factory安装并配置anaconda)
   - [:stars:下载并安装Git](#stars下载并安装git)
   - [:speedboat:安装ultralytics并导出yolov8n-cls.onnx模型](#speedboat安装ultralytics并导出yolov8n-clsonnx模型)
@@ -9,7 +9,7 @@
   - [:oncoming\_automobile:安装VS Code](#oncoming_automobile安装vs-code)
 
 
-### 简介
+### :tent:简介
 本文将从零开始详述在Windows10/11上搭建OpenVINO™ Python开发环境。
 
 ###  :factory:安装并配置Anaconda
@@ -86,7 +86,7 @@ Visual Studio Code 是一款功能强大的代码编辑器，非常适合跟Anac
 
 从[VS Code官网](https://code.visualstudio.com/)下载安装文件，按照默认选项完成安装。
 
-到此，**完成了在Windows10/11上搭建OpenVINO+YOLOv5开发环境**。
+到此，**在Windows10/11上搭建OpenVINO™ Python开发环境**。
 
 
 

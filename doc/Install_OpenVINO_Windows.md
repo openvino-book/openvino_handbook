@@ -86,7 +86,7 @@ Visual Studio Code 是一款功能强大的代码编辑器，非常适合跟Anac
 
 从[VS Code官网](https://code.visualstudio.com/)下载安装文件，按照默认选项完成安装。
 
-到此，**在Windows10/11上搭建OpenVINO™ Python开发环境**。
+到此，**在Windows10/11上搭建OpenVINO™ Python开发环境已完成！**。
 
 
 

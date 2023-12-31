@@ -24,7 +24,7 @@
 
 所有安装选项页面均保持默认选择，但在"Advanced Installation Options"页， 请勾选“Add Anaconda3 to my PATH environment variable”，让Anaconda成为Windows系统默认的Python运行版本。
 
-![勾选“Add Anaconda3 to my PATH environment variable”](../pic/advanced_installation_options.png)
+<div align=center>![勾选“Add Anaconda3 to my PATH environment variable”](../pic/advanced_installation_options.png)</div>
 
 **第二步**， 配置Anaconda国内镜像源
 参考[Anaconda 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)，完成Anaconda国内镜像源配置，这样可以极大的提高Python软件包的下载速度。

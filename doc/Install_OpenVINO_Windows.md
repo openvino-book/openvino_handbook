@@ -1,3 +1,5 @@
+## <center>在Windows上搭建OpenVINO™ Python开发环境</center>
+
 [1. 本文简介](#1)
 
 [2. 安装并配置Anaconda](#2)
@@ -11,7 +13,7 @@
 [6. 安装VS Code](#6)
 
 ### 本文 <span id="1">简介</span>
-本文将从零开始详述在Windows10/11上搭建OpenVINO+YOLOv5开发环境。
+本文将从零开始详述在Windows10/11上搭建OpenVINO™ Python开发环境。
 
 ###  安装并配置Anaconda
 **第一步**，下载并安装Anaconda

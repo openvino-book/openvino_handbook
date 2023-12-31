@@ -6,9 +6,9 @@
 
 [3. 下载并安装Git](#3)
 
-[4. 克隆并安装YOLOv5](#4)
+[4. 安装ultralytics并导出yolov8n-cls.onnx模型](#4)
 
-[5. 安装openvino-dev](#5)
+[5. 安装openvino](#5)
 
 [6. 安装VS Code](#6)
 
@@ -55,33 +55,33 @@ pip config set install.trusted-host mirrors.aliyun.com
 
 从[Git官网](https://git-scm.com/downloads)下载Git安装文件，按默认选项安装即可。
 
-### 克隆并安装YOLOv5
-<span id="4">**第一步**</span>，启动Git Bash，将YOLOv5代码仓克隆到本地
->git clone https://github.com/ultralytics/yolov5.git
+### :speedboat:安装ultralytics并导出yolov8n-cls.onnx模型
 
-![克隆YOLOv5代码仓到本地](pic/clone_yolov5.png)
+<span id="4">**第一步**</span>，打开*命令提示符*窗口，使用*conda activate ov_book*激活*ov_book*虚拟环境，然后执行命令：
+```
+pip install ultralytics
+```
 
-**第二步**，打开*命令提示符*窗口，激活ov_book虚拟环境，进入yolov5文件夹，安装YOLOv5所需的依赖软件包。
->activate ov_book
+**第二步**，导出yolov8n-cls.onnx格式模型
+```
+yolo export model=yolov8n-cls.pt format=onnx imgsz=224
+```
 
->pip install -r requirements.txt
+### :rocket:安装openvino
 
-![安装YOLOv5所需的依赖软件包](pic/install_yolov5.png)
+<span id="5">OpenVINO</span>Python包，包含一组工具：OpenVINO Runtime，OpenVINO Model Converter和benchmark_app，使用命令：
+```
+pip install openvino
+```
+验证安装：
+```
+python -c "from openvino.runtime import Core; print(Core().available_devices)"
+ovc -h
+benchmark_app -h
+```
 
-**第三步**，导出yolov5s-cls ONNX格式模型
-> python export.py --weights yolov5s-cls.pt --include onnx --img 224
+### :oncoming_automobile:安装VS Code
 
-![导出yolov5s-cls ONNX格式模型](pic/export_yolov5s_cls.png)
-
-### 安装openvino-dev
-
-<span id="5">由于</span>由于本书不涉及TensorFlow等框架，所以在安装时openvino-dev，增加一个onnx的选项，参考：https://pypi.org/project/openvino-dev/
-
->pip install openvino-dev[onnx]
-
-![安装openvino-dev](pic/install_openvino.png)
-
-### 安装VS Code
 <span id="6">Visual</span> Studio Code 是一款功能强大的代码编辑器，非常适合跟Anaconda和Git一起，作为Python程序的集成开发环境(IDE)。
 
 从[VS Code官网](https://code.visualstudio.com/)下载安装文件，按照默认选项完成安装。

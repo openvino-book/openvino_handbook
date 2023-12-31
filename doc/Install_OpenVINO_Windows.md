@@ -1,6 +1,6 @@
 ## <center>在Windows上搭建OpenVINO™ Python开发环境</center>
 
-[1. 本文简介](#1)
+[1. 简介](#1)
 
 [2. 安装并配置Anaconda](#2)
 
@@ -12,10 +12,10 @@
 
 [6. 安装VS Code](#6)
 
-### 本文 <span id="1">简介</span>
+### <span id="1">简介</span>
 本文将从零开始详述在Windows10/11上搭建OpenVINO™ Python开发环境。
 
-###  安装并配置Anaconda
+###  :factory:安装并配置Anaconda
 **第一步**，下载并安装Anaconda
 <span id="2">Anaconda</span>([官方网站](https://www.anaconda.com/))是Python软件包(packages)和虚拟环境(virtual environment)的管理工具，让Python开发者能方便快捷地管理Python运行的虚拟环境和开发应用程序所依赖的各种软件包。
 

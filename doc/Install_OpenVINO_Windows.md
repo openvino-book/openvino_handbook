@@ -17,6 +17,7 @@
 
 ###  :factory:安装并配置Anaconda
 **第一步**，下载并安装Anaconda
+
 <span id="2">Anaconda</span>([官方网站](https://www.anaconda.com/))是Python软件包(packages)和虚拟环境(virtual environment)的管理工具，让Python开发者能方便快捷地管理Python运行的虚拟环境和开发应用程序所依赖的各种软件包。
 
 从[Anaconda官网](https://www.anaconda.com/)下载最新的Anaconda安装文件，双击安装。

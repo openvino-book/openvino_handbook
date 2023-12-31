@@ -57,12 +57,12 @@ Git是一个开源免费的分布式版本控制系统，不管是小项目还�
 
 ### :speedboat:安装ultralytics并导出yolov8n-cls.onnx模型
 
-**第一步**，打开*命令提示符*窗口，使用*conda activate ov_book*激活*ov_book*虚拟环境，然后执行命令：
+**第一步**，打开 *命令提示符* 窗口，使用*conda activate ov_book*激活*ov_book*虚拟环境，然后执行命令：
 ```
 pip install ultralytics
 ```
 
-**第二步**，导出yolov8n-cls.onnx格式模型
+**第二步**，导出yolov8n-cls.onnx模型
 ```
 yolo export model=yolov8n-cls.pt format=onnx imgsz=224
 ```

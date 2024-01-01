@@ -82,6 +82,12 @@ pip install ultralytics
 ```
 yolo export model=yolov8n-cls.pt format=onnx imgsz=224
 ```
+<div align=center><img src="../pic/export_yolov8n_cls.png"></div>
+
+**第三步**，学会使用netron查看模型
+
+根据上图的提示，进入[https://netron.app](https://netron.app),打开yolov8n_cls.onnx模型，查看模型信息，尤其是输入和输出。
+<div align=center><img src="../pic/netron.png"></div>
 
 ### :rocket:安装openvino python软件包
 

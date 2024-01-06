@@ -17,7 +17,7 @@
 
 本文将从零开始详述在**Windows10/11**上搭建**OpenVINO™ CSharp**开发环境，并使用 **OpenVINO™ CSharp API **部署 **Yolov8s** 模型。
 
-### 🔮安装 .NET 运行环境
+### 🔮安装.NET运行环境
 
 **[.NET](https://learn.microsoft.com/zh-cn/dotnet/)** 是由 **Microsoft** 创建的一个免费的、跨平台的、开源开发人员平台，可以使用 C#、F# 或 Visual Basic 语言编写代码，用于构建许多不同类型的应用程序，可以在任何兼容的操作系统上(Windows、Linux、Mac OS等)运行。
 
@@ -35,9 +35,9 @@
 - [Visual Studio 2022 IDE](https://visualstudio.microsoft.com/zh-hans/vs/)
 - [在 Windows 上安装 .NET](https://learn.microsoft.com/zh-cn/dotnet/core/install/windows)
 
-### 🎨配置 OpenVINO™ C# 项目
+### 🎨配置OpenVINO™C#项目
 
-#### 第一步：创建 OpenVINO™ C# 项目
+#### 第一步：创建 OpenVINO™C# 项目
 
 使用**Visual Studio 2022 IDE**创建一个 OpenVINO™  C# 测试项目，按照下图流程进行创建即可.
 
@@ -261,7 +261,7 @@ namespace test_openvino_csharp
 
 
 
-### 🎁运行 OpenVINO™ C# 项目
+### 🎁运行OpenVINO™C#项目
 
 创建并配置好项目后，就可以直接运行该项目了，使用**Visual Studio 2022 IDE**可以直接点击运行案件运行程序，程序运行后输出如下所示：
 

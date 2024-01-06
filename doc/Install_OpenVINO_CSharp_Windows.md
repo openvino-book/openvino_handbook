@@ -48,7 +48,7 @@
 
  OpenVINO™ C# 项目所使用的依赖环境，此处可以完全使用 NuGet Package 安装所需程序集，其安装流程如下图所示：
 
-<div align=center><img src="../pic/vs_install_nuget.png" width=800></div>
+<div align=center><img src="../pic/vs_install_nugetpackage.png" width=800></div>
 
 在此处，主要需要安装两类 NuGet 程序包，分别为：
 
@@ -92,7 +92,7 @@ namespace test_openvino_csharp
 
 创建并配置好项目后，就可以直接运行该项目了，使用**Visual Studio 2022 IDE**可以直接点击运行案件运行程序，程序运行后输出如下所示：
 
-<div align=center><img src="../pic/csharp_windows_test_result.png" width=800></div>
+<div align=center><img src="../pic/csharp_windows_test.png" width=800></div>
 
 此处主要输出了OpenVINO版本信息，并使用OpenCvSharp绘制了一张蓝色图片，如果出现以下结果，说明环境配置成功。
 

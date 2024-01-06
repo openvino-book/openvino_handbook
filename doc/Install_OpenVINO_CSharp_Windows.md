@@ -1,14 +1,14 @@
-## 在Windows上搭建OpenVINO™ C#开发环境
+## 在Windows上搭建OpenVINO™C#开发环境
 
-- [在Windows上搭建OpenVINO™ C#开发环境](#在Windows上搭建OpenVINO™ C#开发环境)
+- [在Windows上搭建OpenVINO™C#开发环境](#在Windows上搭建OpenVINO™C#开发环境)
   - [🧩简介](#🧩简介)
-  - [🔮安装 .NET 运行环境](#🔮安装 .NET 运行环境)
+  - [🔮安装.NET运行环境](#🔮安装.NET运行环境)
   - [🎈配置C#开发环境](#🎈配置C#开发环境)
-  - [🎨配置 OpenVINO™ C# 项目](#🎨配置 OpenVINO™ C# 项目)
-    - [第一步：创建 OpenVINO™ C# 项目](#第一步：创建 OpenVINO™ C# 项目)
+  - [🎨配置OpenVINO™C#项目](#🎨配置OpenVINO™C#项目)
+    - [第一步：创建OpenVINO™C#项目](#第一步：创建OpenVINO™C#项目)
     - [第二步：添加项目依赖](#第二步：添加项目依赖)
     - [第三步：添加项目代码](#第三步：添加项目代码)
-  - [🎁运行 OpenVINO™ C# 项目](#🎁运行 OpenVINO™ C# 项目)
+  - [🎁运行OpenVINO™C#项目](#🎁运行OpenVINO™C#项目)
   - [🎯总结](#🎯总结)
 
 

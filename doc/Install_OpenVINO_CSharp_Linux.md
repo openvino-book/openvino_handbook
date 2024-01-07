@@ -3,8 +3,8 @@
 - [在Linux上搭建OpenVINO™C#开发环境](#在Linux上搭建OpenVINO™C#开发环境)
   - [🧩简介](#🧩简介)
   - [🔮安装.NET运行环境](#🔮安装.NET运行环境)
-    - [第一步安装 .NET 6.0 SDK](#第一步安装 .NET 6.0 SDK)
-    - [第二步安装 .NET 6.0 Runtime](#第二步安装 .NET 6.0 Runtime)
+    - [第一步安装.NET6.0SDK](#第一步安装 .NET6.0SDK)
+    - [第二步安装.NET6.0Runtime](#第二步安装.NET6.0Runtime)
   - [🎈配置C#开发环境](#🎈配置C#开发环境)
   - [🎨创建并配置C#项目](#🎨创建并配置C#项目)
     - [第一步：创建OpenVINO™C#项目](#第一步：创建OpenVINO™C#项目)
@@ -27,7 +27,7 @@ Microsoft官方提供了**.NET**环境的详细安装流程，大家可以参考
 
 由于当前Linux提供的系统较多，接下来将基于**Linux(Ubuntu 20.04)**系统安装**.NET 6.0**进行项目演示。
 
-#### 第一步安装 .NET 6.0 SDK
+#### 第一步安装.NET6.0SDK
 
 创建一个Terminal，输入以下指令安装 **.NET 6.0 SDK**。
 
@@ -37,7 +37,7 @@ sudo apt-get install -y dotnet-sdk-6.0
 
 <div align=center><img src="../pic/linux_install_net6.0_sdk.png" width=500></div>
 
-#### 第二步安装 .NET 6.0 Runtime
+#### 第二步安装.NET6.0Runtime
 
 一般情况下安装的 **.NET 6.0 SDK**中已经包含了 **.NET 6.0 Runtime**，但是如果版本不一致，可能无法使用，因此用户可以在输入以下指令，单独安装**.NET 6.0 Runtime**。
 
@@ -48,8 +48,6 @@ sudo apt-get install -y dotnet-runtime-6.0
 <div align=center><img src="../pic/linux_install_net6.0_runtime.png" width=500></div>
 
 ### 🎈配置C#开发环境
-
-
 
 在Linux环境下我们可以使用以下组合进行C#代码开发：
 

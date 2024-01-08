@@ -20,6 +20,10 @@
 第一章：什么是OpenVINO？
 第二章：优化并部署模型
 
+## 📚 OpenVINO项目案例
+[1. 《基于 OpenVINO™ 和 AIxBoard 的智能安检盒子》](https://mp.weixin.qq.com/s/gf7Fyim3i7tEEcgBHjaiRw)
+
+[2. 《在英特尔独立显卡上加速 HALCON AI 模型推理》](https://mp.weixin.qq.com/s/jReFStQP64wg6FJHGtu9WQ)
 ## 🎖 贡献
 
 

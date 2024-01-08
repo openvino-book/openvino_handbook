@@ -95,7 +95,7 @@ dotnet add package OpenVINO.runtime.ubuntu.22-x86_64
 ```
 
 - **OpenVINO.CSharp.API**：OpenVINO™ CSharp API 项目核心程序集。
-- **OpenVINO.runtime.win**：OpenVINO™ 在Ubuntu 22.04 平台运行所需依赖项。
+- **OpenVINO.runtime.ubuntu.22-x86_64**：OpenVINO™ 在Ubuntu 22.04 平台运行所需依赖项。
 
 <div align=center><img src="../pic/linux_install_nugetpackage.png" width=800></div>
 

@@ -1,4 +1,4 @@
-![openvino_handbook](https://socialify.git.ci/openvino-book/openvino_handbook/image?description=1&descriptionEditable=%E3%80%8AOpenVINO%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%E3%80%8B&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+![openvino_handbook](https://socialify.git.ci/openvino-book/openvino_handbook/image?forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
 <p align="center">    
     <a href="./LICENSE.txt">
@@ -11,7 +11,7 @@
 
 简体中文| [English](README_en.md)
 
-#### 这是《OpenVINO™ 权威指南》的Github Repo，该项目还在建设中，功能还未完善，如使用中有问题，欢迎与我们沟通联系。如果对该项目感兴趣，也可以加入到我们的开发中来。🥰🥰🥰🥰
+#### 这是《OpenVINO™ 工具套件权威指南》的Github Repo，该项目还在建设中，功能还未完善，如使用中有问题，欢迎与我们沟通联系。如果对该项目感兴趣，也可以加入到我们的开发中来。🥰🥰🥰🥰
 
 
 

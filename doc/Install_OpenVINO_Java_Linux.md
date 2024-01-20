@@ -89,7 +89,7 @@ Process finished with exit code 0
 #### 第三步下载OpenVINORuntime
 OpenVINO™ 有两种安装方式: OpenVINO™ Runtime 和OpenVINO™ Development Tools。OpenVINO™ Runtime 包含用于在处理器设备上运行模型部署推理的核心库。OpenVINO™ Development Tools 是一组用于处理 OpenVINO™ 和 OpenVINO™ 模型的工具，包括模型优化器、OpenVINO™ Runtime、模型下载器等。在此处我们只需要安装 OpenVINO™ Runtime 即可。
 
-访问 [Download the Intel Distribution of OpenVINO™ Toolkit](https://docs.openvino.ai/2023.2/openvino_docs_install_guides_overview.html) 页面，按照下面流程选择相应的安装选项，在下载页面，由于AIxBoard使用的是 Ubuntu20.04，因此下载时按照指定的编译版本下载即可(截止2024年1月17日release版本是2023.2)。
+访问 [Download the Intel Distribution of OpenVINO™ Toolkit](https://docs.openvino.ai/2023.2/openvino_docs_install_guides_overview.html) 页面，按照下面流程选择相应的安装选项，在下载页面，按照指定的编译版本下载即可(截止2024年1月17日release版本是2023.2)。
 ![Alt text](../pic/java/install_open_vino_2023.2.linux.png)
 进入到下载页面直接下载即可。<font color="red">注意：需要你的Linux对应的版本</font>
 ![Alt text](../pic/java/install_open_vino_2023.2.linux_download_list.png)

@@ -118,7 +118,7 @@ C:\ProgramData\VIRobotics\driver\OpenVINO\3rdparty\tbb\bin
 
 
 ### 4 总结
-至此，我们就完成了在Windows上搭建OpenVINO™C#开发环境，欢迎大家使用，如需要更多信息，可以参考一下内容：
+至此，我们就完成了在Windows上搭建OpenVINO™ LabVIEW开发环境，欢迎大家使用，如需要更多信息，可以参考一下内容：
 
 
 -  [LabVIEW AI开发者福音：LabVIEW OpenVINO AI加速工具包，不来看看？](https://mp.weixin.qq.com/s/G1mw_yawlQ96JG5g14pSRg)

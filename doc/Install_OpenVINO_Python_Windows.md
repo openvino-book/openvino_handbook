@@ -75,7 +75,7 @@ yolo export model=yolov8n-cls.pt format=onnx imgsz=224
 
 ### :rocket:安装OpenVINO™ 开发套件
 
-OpenVINO™ 开发套件包含：OpenVINO Runtime，OpenVINO Model Converter和benchmark_app，使用命令安装**OpenVINO™ 开发套件**：
+OpenVINO™ 工具套件包含：OpenVINO Runtime，OpenVINO Model Converter和benchmark_app，使用命令安装**OpenVINO™ 工具套件**：
 ```
 pip install openvino
 ```

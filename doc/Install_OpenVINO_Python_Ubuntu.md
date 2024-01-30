@@ -5,8 +5,8 @@
   - [:factory:安装并配置Anaconda](#factory安装并配置anaconda)
   - [:stars:下载并安装Git](#stars下载并安装git)
   - [:speedboat:安装ultralytics并导出yolov8n-cls.onnx模型](#speedboat安装ultralytics并导出yolov8n-clsonnx模型)
-  - [:rocket:安装openvino python软件包](#rocket安装openvino-python软件包)
-  - [:oncoming\_automobile:安装VS Code](#oncoming_automobile安装vs-code)
+  - [:rocket:安装OpenVINO™ 工具套件](#rocket安装openvino-工具套件)
+  - [:whale:安装VS Code](#whale安装vs-code)
 
 
 ### :tent:简介
@@ -89,12 +89,12 @@ yolo export model=yolov8n-cls.pt format=onnx imgsz=224
 根据上图的提示，进入[https://netron.app](https://netron.app),打开yolov8n_cls.onnx模型，查看模型信息，尤其是输入和输出。
 <div align=center><img src="../pic/netron.png"></div>
 
-### :rocket:安装openvino python软件包
+### :rocket:安装OpenVINO™ 工具套件
 
-OpenVINO Python软件包包含：OpenVINO Runtime，OpenVINO Model Converter和benchmark_app，使用命令安装openvino和[Intel Graphics Compute Runtime](https://github.com/intel/compute-runtime)：
+OpenVINO™ 工具套件包含：OpenVINO™ Runtime，OpenVINO™ Model Converter和benchmark_app，使用命令安装**OpenVINO™ 工具套件**和[Intel Graphics Compute Runtime](https://github.com/intel/compute-runtime)：
 ```
-pip install openvino
-sudo apt-get install intel-opencl-icd
+pip install openvino  #安装OpenVINO™工具套件
+sudo apt-get install intel-opencl-icd  #安装compute-runtime
 ```
 验证安装：
 ```
@@ -103,7 +103,7 @@ ovc -h
 benchmark_app -h
 ```
 
-### :oncoming_automobile:安装VS Code
+### :whale:安装VS Code
 
 Visual Studio Code 是一款功能强大的代码编辑器，非常适合跟Anaconda和Git一起，作为Python程序的集成开发环境(IDE)。
 

@@ -12,7 +12,7 @@
   - [🎨创建并配置CPP项目](#🎨创建并配置cpp项目)
     - [第一步：创建OpenVINO™CPP项目](#第一步创建openvino™cpp项目)
     - [第二步：添加项目依赖](#第二步添加项目依赖)
-  - [🎁测试OpenVINO™C#项目](#🎁测试openvino™cpp项目)
+  - [🎁测试OpenVINO™CPP项目](#🎁测试openvino™cpp项目)
   - [🎯总结](#🎯总结)
 
 

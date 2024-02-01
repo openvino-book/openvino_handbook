@@ -50,7 +50,7 @@ sudo apt update && apt search openvino
 <div align=center><img src="../pic/update_search.png" width=500></div>
 
 ##### 步骤四
-使用APT安装OpenVINO
+使用APT安装OpenVINO™
 
 ```shell
 sudo apt install openvino-2023.2.0
@@ -97,7 +97,7 @@ sudo apt install make cmake gcc g++ build-essential
 
 
 #### 第二步：添加项目依赖
-在CMakeLists.txt中添加所需的依赖OpenVINO
+在CMakeLists.txt中添加所需的依赖OpenVINO™
 ```cmake
 find_package(OpenVINO COMPONENTS Runtime)
 target_link_libraries(

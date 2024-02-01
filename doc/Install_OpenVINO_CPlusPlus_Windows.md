@@ -1,30 +1,31 @@
-## 在Windows上搭建OpenVINO™CPP开发环境
+## 在Windows上搭建 OpenVINO™CPP开发环境
 
-- [在Windows上搭建OpenVINO™CPP开发环境](#在windows上搭建openvino™cpp开发环境)
-  - [🧩简介](#🧩简介)
-  - [🔮安装OpenVINO™开发环境(任选一个即可)](#🔮安装openvino™开发环境)
-    - [方式一：使用预编译库](#使用预编译库安装)
-    - [方式二：使用vcpkg安装](#使用vcpkg安装)
-    
-    
-  - [🎈配置CPP开发环境](#🎈配置cpp开发环境)
-
-  - [🎨创建并配置CPP项目](#🎨创建并配置cpp项目)
-    - [第一步：创建OpenVINO™CPP项目](#第一步创建openvino™cpp项目)
+- [在Windows上搭建 OpenVINO™CPP开发环境](#在windows上搭建-openvinocpp开发环境)
+  - [🧩简介](#简介)
+  - [🔮安装开发环境](#安装开发环境)
+    - [使用预编译库安装](#使用预编译库安装)
+      - [步骤一](#步骤一)
+      - [步骤二](#步骤二)
+    - [使用vcpkg安装](#使用vcpkg安装)
+      - [步骤一](#步骤一-1)
+      - [步骤二](#步骤二-1)
+  - [🎈配置CPP开发环境](#配置cpp开发环境)
+  - [🎨创建并配置CPP项目](#创建并配置cpp项目)
+    - [第一步：创建CPP项目](#第一步创建cpp项目)
     - [第二步：添加项目依赖](#第二步添加项目依赖)
-  - [🎁测试OpenVINO™C#项目](#🎁测试openvino™cpp项目)
-  - [🎯总结](#🎯总结)
+  - [🎁测试](#测试)
+  - [🎯总结](#总结)
 
 
 ### 🧩简介
 本文将从零开始详述在**Window**上搭建**OpenVINO™ CPlusPlus**开发环境，并对 **OpenVINO™ CPlusPlus API **环境进行简单测试。
 
-### 🔮安装OpenVINO™开发环境
+### 🔮安装开发环境
 
 #### 使用预编译库安装
 
 ##### 步骤一
-首先需要下载从官网下载[OpenVINO-2023](https://storage.openvinotoolkit.org/repositories/openvino/packages/2023.2/windows/w_openvino_toolkit_windows_2023.2.0.13089.cfd42bd2cb0_x86_64.zip)到任意目录后解压, 比如我将其放置到如下位置, 并且重命名为openvino
+首先需要下载从官网下载[OpenVINO™](https://storage.openvinotoolkit.org/repositories/openvino/packages/2023.2/windows/w_openvino_toolkit_windows_2023.2.0.13089.cfd42bd2cb0_x86_64.zip)到任意目录后解压, 比如我将其放置到如下位置, 并且重命名为openvino
 
 <div align=center><img src="../pic/download_prebuild_openvino.png" width=500></div>
 
@@ -63,7 +64,7 @@ vcpkg install openvino
 这里我们假设已经完成Visual Studio的配置安装
 
 ### 🎨创建并配置CPP项目
-#### 第一步：创建OpenVINO™CPP项目
+#### 第一步：创建CPP项目
 测试案例我们使用Visual Studio选择一个空项目
 <div align=center><img src="../pic/create_empty_project.png" width=500></div>
 
@@ -73,7 +74,7 @@ vcpkg install openvino
 
 
 #### 第二步：添加项目依赖
-这里我们需要把openvino的头文件以及库文件都添加到刚刚创建的项目的配置文件里面。
+这里我们需要把OpenVINO™的头文件以及库文件都添加到刚刚创建的项目的配置文件里面。
 
 首先点击菜单栏的**项目**，再点击**属性**按钮，会出现当前project的配置会话框。
 
@@ -86,7 +87,7 @@ vcpkg install openvino
 <div align=center><img src="../pic/add_openvino_lib_input.png" width=500></div>
 
 
-### 🎁测试OpenVINO™CPP项目
+### 🎁测试
 创建一个main.cpp后输入以下代码, 右击项目点击生成即可在目录下生成可执行文件
 ```C++
 #include <openvino/openvino.hpp>
@@ -112,6 +113,6 @@ build number:2023.2.0-13089-cfd42bd2cb0-HEAD description:OpenVINO Runtime
 至此，我们就完成了在Windows上搭建OpenVINO™C++开发环境，欢迎大家使用，如需要更多信息，可以参考一下内容：
 
 - [OpenVINO™](https://github.com/openvinotoolkit/openvino)
-- [OpenVINO doc](https://docs.openvino.ai/2023.2/home.html)
+- [OpenVINO™ doc](https://docs.openvino.ai/2023.2/home.html)
 
 

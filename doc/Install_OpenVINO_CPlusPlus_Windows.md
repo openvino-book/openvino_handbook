@@ -113,6 +113,6 @@ build number:2023.2.0-13089-cfd42bd2cb0-HEAD description:OpenVINO Runtime
 至此，我们就完成了在Windows上搭建OpenVINO™C++开发环境，欢迎大家使用，如需要更多信息，可以参考一下内容：
 
 - [OpenVINO™](https://github.com/openvinotoolkit/openvino)
-- [OpenVINO doc](https://docs.openvino.ai/2023.2/home.html)
+- [OpenVINO™ doc](https://docs.openvino.ai/2023.2/home.html)
 
 

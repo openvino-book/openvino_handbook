@@ -1,25 +1,28 @@
 ## 在Linux上搭建OpenVINO™CPP开发环境
 
-- [在Linux上搭建OpenVINO™CPP开发环境](#在linux上搭建openvino™cpp开发环境)
-  - [🧩简介](#🧩简介)
-  - [🔮安装OpenVINO™开发环境(任选一个即可)](#🔮安装openvino™开发环境)
-    - [方式一：使用APT包管理器安装](#使用apt包管理器安装)
-    - [方式二：使用vcpkg安装](#使用vcpkg安装)
-    
-    
-  - [🎈配置CPP开发环境](#🎈配置cpp开发环境)
-
-  - [🎨创建并配置CPP项目](#🎨创建并配置cpp项目)
-    - [第一步：创建OpenVINO™CPP项目](#第一步创建openvino™cpp项目)
+- [在Linux上搭建OpenVINO™CPP开发环境](#在linux上搭建openvinocpp开发环境)
+  - [🧩简介](#简介)
+  - [🔮安装开发环境](#安装开发环境)
+    - [使用APT包管理器安装](#使用apt包管理器安装)
+      - [步骤一](#步骤一)
+      - [步骤二](#步骤二)
+      - [步骤三](#步骤三)
+      - [步骤四](#步骤四)
+    - [使用vcpkg安装](#使用vcpkg安装)
+      - [步骤一](#步骤一-1)
+      - [步骤二](#步骤二-1)
+  - [🎈配置CPP开发环境](#配置cpp开发环境)
+  - [🎨创建并配置CPP项目](#创建并配置cpp项目)
+    - [第一步：创建CPP项目](#第一步创建cpp项目)
     - [第二步：添加项目依赖](#第二步添加项目依赖)
-  - [🎁测试OpenVINO™CPP项目](#🎁测试openvino™cpp项目)
-  - [🎯总结](#🎯总结)
+  - [🎁测试](#测试)
+  - [🎯总结](#总结)
 
 
 ### 🧩简介
 本文将从零开始详述在**Linux(Ubuntu 22.04)**上搭建**OpenVINO™ CPlusPlus**开发环境，并对 **OpenVINO™ CPlusPlus API **环境进行简单测试。
 
-### 🔮安装OpenVINO™开发环境
+### 🔮安装开发环境
 
 #### 使用APT包管理器安装
 
@@ -88,7 +91,7 @@ sudo apt install make cmake gcc g++ build-essential
 
 
 ### 🎨创建并配置CPP项目
-#### 第一步：创建OpenVINO™CPP项目
+#### 第一步：创建CPP项目
 测试案例我们使用Visual Studio Code进行编辑并创建一个结构如下用于测试
 <div align=center><img src="../pic/create_project.png" width=500></div>
 
@@ -125,7 +128,7 @@ target_link_libraries(
 }
 ```
 
-### 🎁测试OpenVINO™CPP项目
+### 🎁测试
 
 ```C++
 #include <openvino/openvino.hpp>
@@ -151,6 +154,6 @@ build number:2023.2.0-13089-cfd42bd2cb0-HEAD description:OpenVINO Runtime
 至此，我们就完成了在Linux上搭建OpenVINO™C++开发环境，欢迎大家使用，如需要更多信息，可以参考一下内容：
 
 - [OpenVINO™](https://github.com/openvinotoolkit/openvino)
-- [OpenVINO doc](https://docs.openvino.ai/2023.2/home.html)
+- [OpenVINO™ doc](https://docs.openvino.ai/2023.2/home.html)
 
 

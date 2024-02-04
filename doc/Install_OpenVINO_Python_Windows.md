@@ -62,11 +62,19 @@ Git是一个开源免费的分布式版本控制系统，不管是小项目还�
 pip install ultralytics
 ```
 
-**第二步**，导出yolov8n-cls.onnx模型
+**第二步**，导出yolov8分类模型
+
+导出**参数最少**的yolov8分类模型：yolov8n-cls.onnx
 ```
 yolo export model=yolov8n-cls.pt format=onnx imgsz=224
 ```
 <div align=center><img src="../pic/export_yolov8n_cls.png"></div>
+
+导出**参数最多**的yolov8分类模型：yolov8x-cls.onnx
+```
+yolo export model=yolov8x-cls.pt format=onnx imgsz=224
+```
+<div align=center><img src="../pic/export_yolov8x_cls.png"></div>
 
 **第三步**，学会使用netron查看模型
 

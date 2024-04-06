@@ -99,7 +99,7 @@ yolo export model=yolov8x-cls.pt format=onnx imgsz=224
 OpenVINO™ 工具套件包含：OpenVINO™ Runtime，OpenVINO™ Model Converter和benchmark_app，使用命令安装**OpenVINO™ 工具套件**和[Intel Graphics Compute Runtime](https://github.com/intel/compute-runtime)：
 ```
 pip install openvino  #安装OpenVINO™工具套件
-sudo apt-get install intel-opencl-icd  #安装compute-runtime
+sudo apt-get install -y ocl-icd-libopencl1 intel-opencl-icd intel-level-zero-gpu level-zero  #安装compute-runtime和GPU驱动
 ```
 验证安装：
 ```

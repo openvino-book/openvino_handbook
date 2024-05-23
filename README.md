@@ -19,7 +19,9 @@
 
 第一章：OpenVINO™ 工具套件快速入门
 
-第二章：优化并部署模型
+第二章：优化AI模型的推理性能
+
+第三章：模型量化
 
 ## 📚 OpenVINO项目案例
 [1. 《基于 OpenVINO™ 和 AIxBoard 的智能安检盒子》](https://mp.weixin.qq.com/s/gf7Fyim3i7tEEcgBHjaiRw)

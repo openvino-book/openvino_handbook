@@ -25,6 +25,14 @@
 
 第四章：优化端到端的AI程序推理性能
 
+第五章：OpenVINO™的多种程序开发语言API
+ - OpenVINO™ C++ API
+ - OpenVINO™ JavaScript API
+ - OpenVINO™ C# API
+ - OpenVINO™ Java API
+ - OpenVINO™ LabVIEW API
+ - OpenVINO™ GoLang API
+
 ## 📚 OpenVINO项目案例
 [1. 《基于 OpenVINO™ 和 AIxBoard 的智能安检盒子》](https://mp.weixin.qq.com/s/gf7Fyim3i7tEEcgBHjaiRw)
 

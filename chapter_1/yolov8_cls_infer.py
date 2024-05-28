@@ -43,7 +43,7 @@ def load_img(path_or_url:str)->np.ndarray:
 
 
 # 数据预处理函数，参考yolov8-cls的classify_transforms
-# https://github.com/ultralytics/ultralytics/blob/main/ultralytics/data/augment.py#L1007
+# https://github.com/ultralytics/ultralytics/blob/main/ultralytics/data/augment.py#
 def preprocess_image(image: np.ndarray, target_size=(224, 224))->np.ndarray:
     classify_transforms = T.Compose([
         T.ToPILImage(),               # 调整数据格式: HWC -> CHW

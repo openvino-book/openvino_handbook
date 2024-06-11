@@ -41,7 +41,13 @@
 [1. 《基于 OpenVINO™ 和 AIxBoard 的智能安检盒子》](https://mp.weixin.qq.com/s/gf7Fyim3i7tEEcgBHjaiRw)
 
 [2. 《在英特尔独立显卡上加速 HALCON AI 模型推理》](https://mp.weixin.qq.com/s/jReFStQP64wg6FJHGtu9WQ)
-## 🎖 贡献
+## 🎖 致谢
+(以下排名不分先后)
+- 感谢[冯浩](https://github.com/wxxz975)贡献OpenVINO™ C++ API的安装文档和范例
+- 感谢[涂小丽]()贡献OpenVINO™ JavaScript API的安装文档和范例
+- 感谢[颜国进](https://github.com/guojin-yan)贡献OpenVINO™ C# API的安装文档和范例
+- 感谢[黄明明](https://github.com/Hmm466)贡献OpenVINO™ Java API的安装文档和范例
+- 感谢[王立奇](https://github.com/wangstoudamire)贡献OpenVINO™ LabVIEW API的安装文档和范例
 
 
 ## <img title="" src="https://user-images.githubusercontent.com/48054808/157835345-f5d24128-abaf-4813-b793-d2e5bdc70e5a.png" alt="" width="40"> 许可证书

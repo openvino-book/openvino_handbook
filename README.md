@@ -25,13 +25,17 @@
 
 第四章：优化端到端的AI程序推理性能
 
-第五章：OpenVINO™的多种程序开发语言API
- - OpenVINO™ C++ API
+第五章：OpenVINO™的编程生态
+ - 指定OpenVINO™为PyTorch 2.x后端
+ - ONNX Runtime的OpenVINO™执行提供者
+ - OpenVINO™与Optimum的集成
+ - OpenVINO™ C/C++ API
  - OpenVINO™ JavaScript API
  - OpenVINO™ C# API
  - OpenVINO™ Java API
  - OpenVINO™ LabVIEW API
- - OpenVINO™ GoLang API
+  
+第六章：异常检测Anomalib
 
 ## 📚 OpenVINO项目案例
 [1. 《基于 OpenVINO™ 和 AIxBoard 的智能安检盒子》](https://mp.weixin.qq.com/s/gf7Fyim3i7tEEcgBHjaiRw)

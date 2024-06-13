@@ -43,8 +43,8 @@
 [2. 《在英特尔独立显卡上加速 HALCON AI 模型推理》](https://mp.weixin.qq.com/s/jReFStQP64wg6FJHGtu9WQ)
 ## 🎖 致谢
 (以下排名不分先后)
-- 感谢[冯浩](https://github.com/wxxz975)贡献OpenVINO™ C++ API的安装文档和范例
-- 感谢[涂小丽]()贡献OpenVINO™ JavaScript API的安装文档和范例
+- 感谢[冯浩](https://github.com/wxxz975)贡献[OpenVINO™ C++ API的安装文档和范例](./doc/)
+- 感谢[涂小丽](https://github.com/txl1123)贡献OpenVINO™ JavaScript API的安装文档和范例
 - 感谢[颜国进](https://github.com/guojin-yan)贡献OpenVINO™ C# API的安装文档和范例
 - 感谢[黄明明](https://github.com/Hmm466)贡献OpenVINO™ Java API的安装文档和范例
 - 感谢[王立奇](https://github.com/wangstoudamire)贡献OpenVINO™ LabVIEW API的安装文档和范例

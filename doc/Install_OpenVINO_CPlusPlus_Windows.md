@@ -19,7 +19,7 @@
 
 ### 🧩简介
 本文将从零开始详述在**Window**上搭建**OpenVINO™ CPlusPlus**开发环境，并对 **OpenVINO™ CPlusPlus API **环境进行简单测试。
-
+或者快速参考[《在Windows中基于Visual Studio配置OpenVINO C++开发环境》](https://mp.weixin.qq.com/s/USN5UGsONanzTp-JNfHtuA)
 ### 🔮安装开发环境
 
 #### 使用预编译库安装

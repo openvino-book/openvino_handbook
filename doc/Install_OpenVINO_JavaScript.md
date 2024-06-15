@@ -70,7 +70,7 @@ node index
 
 ### 🎯总结
 
-至此，我们就完成了在MacOS上搭建OpenVINO™C#开发环境，欢迎大家使用，如需要更多信息，可以参考一下内容：
+至此，我们就完成了OpenVINO™ JavaScript开发环境的搭建，欢迎大家使用，如需要更多信息，可以参考一下内容：
 - [openvino-node Api文档](https://docs.openvino.ai/2024/api/nodejs_api/nodejs_api.html)
 - [openvino-node 官方Demo](https://github.com/openvinotoolkit/openvino/blob/master/samples/js/node/README.md)
 - [openvino model zoo](https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/intel/index.md)

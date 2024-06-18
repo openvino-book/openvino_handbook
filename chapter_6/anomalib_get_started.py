@@ -1,7 +1,7 @@
 # 导入所需模块
 import matplotlib
 matplotlib.use("TkAgg")
-print("TkAgg")
+
 from multiprocessing import freeze_support
 from pathlib import Path
 from matplotlib import pyplot as plt

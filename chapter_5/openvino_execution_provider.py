@@ -2,7 +2,8 @@ from ultralytics import YOLO
 import torch, time
 import onnxruntime as ort
 
-device = "CPU_FP32"
+# 设定推理设备为CPU，可根据实际情况改为"GPU"或"NPU"
+device = "CPU"
 IMAGE_PATH = r".\coco_bike.jpg"
 
 # 用Ultralytics工具包 API实现yolov8-seg模型推理程序

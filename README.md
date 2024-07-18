@@ -26,19 +26,17 @@
 第四章：优化端到端的AI程序推理性能
 
 第五章：OpenVINO™的编程生态
- - 指定OpenVINO™为PyTorch 2.x后端
- - ONNX Runtime的OpenVINO™执行提供者
- - OpenVINO™与Optimum的集成
- - OpenVINO™ C/C++ API
- - OpenVINO™ JavaScript API
- - OpenVINO™ C# API
- - OpenVINO™ Java API
- - OpenVINO™ LabVIEW API
   
 第六章：异常检测Anomalib
 
+第七章：大语言模型(LLMs)的优化与部署
+
+第八章：Stable Diffusion模型的优化与部署
+
+第九章：部署OpenVINO™应用程序
+
 ## 📚 OpenVINO项目案例
-[1. 《基于 OpenVINO™ 和 AIxBoard 的智能安检盒子》](https://mp.weixin.qq.com/s/gf7Fyim3i7tEEcgBHjaiRw)
+[1. 《基于OpenVINO™与Qwen2在算力魔方上写2024高考作文！》](https://mp.weixin.qq.com/s/Gi4TrHXyJRpnazy-276G-g)
 
 [2. 《在英特尔独立显卡上加速 HALCON AI 模型推理》](https://mp.weixin.qq.com/s/jReFStQP64wg6FJHGtu9WQ)
 ## 🎖 致谢

@@ -1,6 +1,6 @@
 ## 在Windows上搭建 OpenVINO™ GenAI CPP项目
 
-- 在Windows上搭建 OpenVINO™ GenAI CPP项目
+- 在Windows上搭建 OpenVINO™ GenAI CPP项目开发环境
   - [🧩简介](#🧩简介)
   - [🐌模型准备](#🐌模型准备)
     - [-环境配置](#-环境配置)

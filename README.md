@@ -42,7 +42,7 @@
 ## 🎖 致谢
 (以下排名不分先后)
 - 感谢[冯浩](https://github.com/wxxz975)贡献[OpenVINO™ C++ API的安装文档](./doc/)和范例
-- 感谢[涂小丽](https://github.com/txl1123)贡献[OpenVINO™ JavaScript API的安装文档](./doc/)和范例
+- 感谢[涂小丽](https://github.com/txl1123/OpenVINO-JavaScript-API)贡献[OpenVINO™ JavaScript API的安装文档](./doc/)和范例
 - 感谢[颜国进](https://github.com/guojin-yan)贡献[OpenVINO™ C# API的安装文档](./doc/)和范例
 - 感谢[黄明明](https://github.com/Hmm466)贡献[OpenVINO™ Java API的安装文档](./doc/)和范例
 - 感谢[王立奇](https://github.com/wangstoudamire)贡献[OpenVINO™ LabVIEW API的安装文档](./doc/)和范例

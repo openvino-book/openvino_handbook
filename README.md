@@ -17,21 +17,21 @@
 
 ## 📚 简介
 
-第一章：OpenVINO™ 工具套件快速入门
+第一章：[OpenVINO™ 工具套件快速入门](./chapter_1/)
 
-第二章：优化AI模型的推理性能
+第二章：[优化AI模型的推理性能](./chapter_2/)
 
-第三章：模型量化
+第三章：[模型量化](./chapter_3/)
 
-第四章：优化端到端的AI程序推理性能
+第四章：[优化端到端的AI程序推理性能](./chapter_4/)
 
-第五章：OpenVINO™的编程生态
+第五章：[OpenVINO™的编程生态](./chapter_5/)
   
-第六章：异常检测Anomalib
+第六章：[异常检测Anomalib](./chapter_6/)
 
-第七章：大语言模型(LLMs)的优化与部署
+第七章：[大语言模型(LLMs)的优化与部署](./chapter_7/)
 
-第八章：Stable Diffusion模型的优化与部署
+第八章：[Stable Diffusion模型的优化与部署](./chapter_8/)
 
 第九章：部署OpenVINO™应用程序
 

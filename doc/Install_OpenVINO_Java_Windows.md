@@ -1,22 +1,22 @@
 ## 在Windows上搭建OpenVINO™ Java开发环境
 
-- [在Windows上搭建OpenVINO™ Java开发环境](#在Windows上搭建OpenVINO™ Java开发环境)
-  - [🧩简介](#🧩简介)
-  - [🔮安装Java运行环境](#🔮安装Java运行环境)
-  - [🎈配置Java开发环境](#🎈配置Java开发环境)
-  - [🎯编译OpenVINO™ Java API到本地](🎯编译OpenVINO™JavaAPI到本地)
-  - [🎨创建并配置Java项目](#🎨创建并配置Java项目)
-    - [第一步创建一个Java-Maven项目](#第一步创建一个Java-Maven项目)
-    - [第二步添加OpenVINO™ Java API 到Maven项目中](#第二步添加OpenVINO™JavaAPI到Maven项目中)
-    - [第三步下载OpenVINO Runtime](#第三步下载OpenVINORuntime)
-    - [第四步解压缩，并将tbb的dll 拷贝到runtime下](#第四步解压缩，并将tbb的dll拷贝到runtime下)
-  - [🎁测试OpenVINO™ Java项目](#🎁测试OpenVINO™Java项目)
-  - [🎯总结](#🎯总结)
+- [在Windows上搭建OpenVINO™ Java开发环境](#在windows上搭建openvino-java开发环境)
+  - [🧩简介](#简介)
+  - [🔮安装Java运行环境](#安装java运行环境)
+  - [🎈配置Java开发环境](#配置java开发环境)
+  - [🎯编译OpenVINO™ Java API到本地](#编译openvino-java-api到本地)
+  - [🎨创建并配置Java项目](#创建并配置java项目)
+    - [第一步创建一个Java-Maven项目](#第一步创建一个java-maven项目)
+    - [第二步添加OpenVINO™ Java API 到maven项目中](#第二步添加openvino-java-api-到maven项目中)
+    - [第三步下载OpenVINORuntime](#第三步下载openvinoruntime)
+    - [第四步解压缩，并将tbb的dll拷贝到runtime下](#第四步解压缩并将tbb的dll拷贝到runtime下)
+  - [🎁测试OpenVINO™Java项目](#测试openvinojava项目)
+  - [🎯总结](#总结)
 
 
 ### 🧩简介
 
-本文将从零开始详述在**Windows**平台上上搭建**OpenVINO™ Java**开发环境，并使用Java语言 来对**OpenVINO™ Java API **环境进行简单测试，并验证其可行性。
+本文将从零开始详述在**Windows**平台上搭建**OpenVINO™ Java**开发环境，并使用Java语言来对**OpenVINO™ Java API **环境进行简单测试，并验证其可行性。
 
 ### 🔮安装Java运行环境
 
@@ -138,3 +138,4 @@ Build number: 2023.2.0-13089-cfd42bd2cb0-HEAD
 - [OpenVINO™](https://github.com/openvinotoolkit/openvino)
 - [OpenVINO doc](https://docs.openvino.ai/2023.2/home.html)
 - [OpenVINO™ Java API](https://github.com/Hmm466/OpenVINO-Java-API)
+- [《在 Windows 上搭建 OpenVINO™ Java 开发环境》](https://mp.weixin.qq.com/s/Jmvp56oJwZIk6Qnqaj2f8Q)

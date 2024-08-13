@@ -5,7 +5,7 @@
   - [:stars:下载并安装Git](#stars下载并安装git)
   - [:whale:安装VS Code](#whale安装vs-code)
   - [🎨创建并配置JavaScript项目](#🎨创建并配置JavaScript项目)
-    - [第一步：创建OpenVINO™C#项目](#第一步：创建OpenVINO™JavaScript项目)
+    - [第一步：创建OpenVINO™JavaScript项目](#第一步：创建OpenVINO™JavaScript项目)
     - [第二步：添加项目依赖:rocket:安装OpenVINO™ 开发套件](#第二步：:rocket:安装OpenVINO™ 开发套件)
   - [🎁测试OpenVINO™JavaScript项目](#🎁测试OpenVINO™JavaScript项目)
   - [🎯总结](#🎯总结)

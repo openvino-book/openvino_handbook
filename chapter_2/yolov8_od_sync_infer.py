@@ -13,7 +13,7 @@ colors = np.random.uniform(0, 255, size=(len(CLASSES), 3))
 # 实例化LetterBox
 letterbox = LetterBox()
 
-#
+# 边界框绘制函数
 def draw_bounding_box(img, class_id, confidence, x, y, x_plus_w, y_plus_h):
     label = f"{CLASSES[class_id]} ({confidence:.2f})"
     color = colors[class_id]

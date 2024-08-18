@@ -7,7 +7,7 @@ import torchvision.transforms as T
 # 获取标签信息names
 onnx_model_path = "./yolov8n-cls.onnx"
 onnx_model = onnx.load(onnx_model_path)
-class_names = eval(onnx_model.metadata_props[9].value)
+class_names = eval(onnx_model.metadata_props[10].value)
 
 # 预处理函数，参考yolov8-cls的classify_transforms
 # https://github.com/ultralytics/ultralytics/blob/main/ultralytics/data/augment.py#L1007

@@ -14,7 +14,7 @@ config = {}
 
 onnx_model = onnx.load(onnx_model_path)
 # 从模型的元数据获取标签信息names
-class_names = eval(onnx_model.metadata_props[9].value)
+class_names = eval(onnx_model.metadata_props[10].value)
 
 # 检查字符串是否为url
 from urllib.parse import urlparse

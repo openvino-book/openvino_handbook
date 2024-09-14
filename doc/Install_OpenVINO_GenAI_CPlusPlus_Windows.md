@@ -233,6 +233,6 @@ int main(int argc, char* argv[])
 
 &emsp;    至此，我们就完成了在Windows上搭建OpenVINO™C++开发环境，欢迎大家使用，如需要更多信息，可以参考一下内容：
 
-- [OpenVINO™](https://github.com/openvinotoolkit/openvino)
-- [OpenVINO™ doc](https://docs.openvino.ai/2023.2/home.html)
+- [用OpenVINO™ 生成式AI的C++ API部署Llama3.1模型](https://mp.weixin.qq.com/s/Am-DEeXrYv_n8DSVNktvsA)
+- [OpenVINO™ doc](https://docs.openvino.ai/2024/index.html)
 

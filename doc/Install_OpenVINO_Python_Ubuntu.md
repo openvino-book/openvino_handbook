@@ -17,16 +17,17 @@
 
 Anaconda([官方网站](https://www.anaconda.com/))是Python软件包(packages)和虚拟环境(virtual environment)的管理工具，让Python开发者能方便快捷地管理Python运行的虚拟环境和开发应用程序所依赖的各种软件包。
 
-从[Anaconda官网](https://www.anaconda.com/download#downloads)下载最新的Anaconda3-xxxx.xx-x-Linux-x86_64.sh安装文件，或者使用命令：
+从[Anaconda官网](https://www.anaconda.com/download/success)下载最新的Anaconda3-xxxx.xx-x-Linux-x86_64.sh安装文件，或者使用命令：
 ```
-curl -O https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Linux-x86_64.sh
+curl -O https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Linux-x86_64.sh
 ```
+<div align=center><img src="../pic/download_anaconda_linux.png"></div>
 
 然后执行：
 ```
-bash ~/Downloads/Anaconda3-2023.09-0-Linux-x86_64.sh
+bash ~/Anaconda3-2024.06-1-Linux-x86_64.sh
 ```
-在[阅读并接受license agreement](https://docs.anaconda.com/free/anaconda/install/linux/)后，所有步骤按默认配置键入“Enter”或“yes”即可完成安装。
+在[阅读并接受license agreement](https://docs.anaconda.com/free/anaconda/install/linux/)后，所有步骤**按默认配置**键入“Enter”或“yes”即可完成安装。
 
 
 <div align=center><img src="../pic/anaconda_linux_installation.png"></div>
@@ -66,18 +67,18 @@ Git是一个开源免费的分布式版本控制系统，不管是小项目还�
 
 安装git命令
 ```
-sudo apt-get udpate
-sudo apt-get install git
+sudo apt udpate
+sudo apt install git
 git --version
 ```
 
 ### :speedboat:安装ultralytics并导出yolov8n-cls.onnx模型
 
-**第一步**，打开 *Terminal* 窗口，使用*conda activate ov_book*激活*ov_book*虚拟环境，然后执行命令：
+**第一步**，打开 *Terminal* 窗口，使用*conda activate ov_book*激活*ov_book*虚拟环境，然后执行命令安装ultralytics：
 ```
-pip install ultralytics
+conda install conda-forge::ultralytics
 ```
-
+<div align=center><img src="../pic/conda_install_ultralytics.png"></div>
 **第二步**，导出yolov8分类模型
 导出**参数最少**的yolov8分类模型：yolov8n-cls.onnx
 ```

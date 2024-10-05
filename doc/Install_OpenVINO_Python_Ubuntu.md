@@ -74,8 +74,9 @@ git --version
 
 ### :speedboat:安装ultralytics并导出yolov8n-cls.onnx模型
 
-**第一步**，打开 *Terminal* 窗口，使用*conda activate ov_book*激活*ov_book*虚拟环境，然后执行命令安装ultralytics：
+**第一步**，打开 *Terminal* 窗口，使用*conda activate ov_book*激活*ov_book*虚拟环境，然后执行命令安装pytorch和sultralytics：
 ```
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
 conda install conda-forge::ultralytics
 ```
 <div align=center><img src="../pic/conda_install_ultralytics.png"></div>

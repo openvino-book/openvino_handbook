@@ -80,6 +80,7 @@ conda install pytorch torchvision torchaudio cpuonly -c pytorch
 conda install conda-forge::ultralytics
 ```
 <div align=center><img src="../pic/conda_install_ultralytics.png"></div>
+
 **第二步**，导出yolov8分类模型
 导出**参数最少**的yolov8分类模型：yolov8n-cls.onnx
 ```

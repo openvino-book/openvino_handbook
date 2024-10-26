@@ -25,7 +25,7 @@ curl -O https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Linux-x86_64.sh
 
 然后执行：
 ```
-bash ~/Anaconda3-2024.06-1-Linux-x86_64.sh
+bash Anaconda3-2024.06-1-Linux-x86_64.sh
 ```
 在[阅读并接受license agreement](https://docs.anaconda.com/free/anaconda/install/linux/)后，所有步骤**按默认配置**键入“Enter”或“yes”即可完成安装。
 

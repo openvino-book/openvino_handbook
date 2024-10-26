@@ -33,7 +33,9 @@
 
 第八章：[Stable Diffusion模型的优化与部署](./chapter_8/)
 
-第九章：部署OpenVINO™应用程序
+第九章：多模态模型的优化与部署
+
+第十章：OpenVINO™生态与社区
 
 ## 📚 OpenVINO项目案例
 [1. 《基于OpenVINO™与Qwen2在算力魔方上写2024高考作文！》](https://mp.weixin.qq.com/s/Gi4TrHXyJRpnazy-276G-g)

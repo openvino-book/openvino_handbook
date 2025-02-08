@@ -37,8 +37,14 @@
 
 第十章：OpenVINO™生态与社区
 
+
+
+## 📚 PaddlePaddle模型+OpenVINO项目案例
+1. [PP-OCRv4 + OpenVINO](https://github.com/openvino-book/PP-OCRv4_OpenVINO)
+2. TBD
+
 ## 📚 OpenVINO项目案例
-[1. 《基于OpenVINO™与Qwen2在算力魔方上写2024高考作文！》](https://mp.weixin.qq.com/s/Gi4TrHXyJRpnazy-276G-g)
+[1. 《C#中使用OpenVINO™：轻松集成AI模型！》](https://mp.weixin.qq.com/s/QYEF0uSI-nB5aTQ5BhzuBg)
 
 [2. 《在英特尔独立显卡上加速 HALCON AI 模型推理》](https://mp.weixin.qq.com/s/jReFStQP64wg6FJHGtu9WQ)
 ## 🎖 致谢

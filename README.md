@@ -47,6 +47,9 @@
 [1. 《C#中使用OpenVINO™：轻松集成AI模型！》](https://mp.weixin.qq.com/s/QYEF0uSI-nB5aTQ5BhzuBg)
 
 [2. 《在英特尔独立显卡上加速 HALCON AI 模型推理》](https://mp.weixin.qq.com/s/jReFStQP64wg6FJHGtu9WQ)
+
+[3. 《使用OpenVINO C# API轻松部署飞桨PP-OCRv4模型》](https://mp.weixin.qq.com/s/nc3IV7QnR_INRzAMxyYI0A)
+
 ## 🎖 致谢
 (以下排名不分先后)
 - 感谢[冯浩](https://github.com/wxxz975)贡献[OpenVINO™ C++ API的安装文档](./doc/)和范例

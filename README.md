@@ -41,7 +41,8 @@
 
 ## 📚 PaddlePaddle模型+OpenVINO项目案例
 1. [PP-OCRv4 + OpenVINO](https://github.com/openvino-book/PP-OCRv4_OpenVINO)
-2. TBD
+2. [PP-OCRv5 + OpenVINO](https://github.com/openvino-book/PP-OCRv5_OpenVINO)
+3. 
 
 ## 📚 OpenVINO项目案例
 [1. 《C#中使用OpenVINO™：轻松集成AI模型！》](https://mp.weixin.qq.com/s/QYEF0uSI-nB5aTQ5BhzuBg)

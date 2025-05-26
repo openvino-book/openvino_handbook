@@ -51,15 +51,9 @@
 
 [3. 《使用OpenVINO C# API轻松部署飞桨PP-OCRv4模型》](https://mp.weixin.qq.com/s/nc3IV7QnR_INRzAMxyYI0A)
 
-## 🎖 致谢
-(以下排名不分先后)
-- 感谢[冯浩](https://github.com/wxxz975)贡献[OpenVINO™ C++ API的安装文档](./doc/)和范例
-- 感谢[涂小丽](https://github.com/txl1123/OpenVINO-JavaScript-API)贡献[OpenVINO™ JavaScript API的安装文档](./doc/)和范例
-- 感谢[颜国进](https://github.com/guojin-yan)贡献[OpenVINO™ C# API的安装文档](./doc/)和范例
-- 感谢[黄明明](https://github.com/Hmm466)贡献[OpenVINO™ Java API的安装文档](./doc/)和范例
-- 感谢[王立奇](https://github.com/wangstoudamire)贡献[OpenVINO™ LabVIEW API的安装文档](./doc/)和范例
 
-### OpenVINO™生态与社区
+
+## OpenVINO™生态与社区
 
 ## 英特尔开发人员及开发套件专区
 专为开发者提供多种干货资源,旨在帮助开发者更有效地使用英特尔技术进行创新和开发。
@@ -68,17 +62,22 @@
 3. 论坛和社区支持：AI开发者可在论坛上提问、分享经验，并与其他开发者交流。
 4. 培训和教育资源：包括英特尔认证的在线课程含代码实操、线上研讨会和技术讲座，旨在提升开发者的技能和知识。
 5. 最新技术动态：提供关于英特尔最新技术和产品的信息，使开发者能够跟上技术发展的步伐。
-站点链接:[https://intel.csdn.net]（https://intel.csdn.net/）及[https://inteldevkit.csdn.net]（https://inteldevkit.csdn.net/）
+站点链接:[https://intel.csdn.net](https://intel.csdn.net/)及[https://inteldevkit.csdn.net](https://inteldevkit.csdn.net/)
  
  
 ## 英特尔创新大使计划
-英特尔创新大使将面向全球范围AIoT 等领域技术人才，无论您有专业知识,创新项目, 还是善于分享，都欢迎加入该计划。我们将为您提供一个展示您个人风采的舞台，以及和更多行业合作伙伴交流的平台。  
-加入该计划，您将会获得英特尔官方证书和大使礼包，还能帮助您不断提升个人专业技能，增加影响力，获得更多和同领域专家交流的机会。
- 
-申请链接
-https://www.intel.cn/content/www/cn/zh/developer/community/edge-innovator-program.html or email to yiwei.lee@intel.com
+- 英特尔创新大使将面向全球范围AIoT 等领域技术人才，无论您有专业知识,创新项目, 还是善于分享，都欢迎加入该计划。
+- 我们将为您提供一个展示您个人风采的舞台，以及和更多行业合作伙伴交流的平台。  
+- 加入该计划，您将会获得英特尔官方证书和大使礼包，还能帮助您不断提升个人专业技能，增加影响力，获得更多和同领域专家交流的机会。
+- 申请链接: https://www.intel.cn/content/www/cn/zh/developer/community/edge-innovator-program.html or email to yiwei.lee@intel.com
 
-
+## 🎖 致谢
+(以下排名不分先后)
+- 感谢[冯浩](https://github.com/wxxz975)贡献[OpenVINO™ C++ API的安装文档](./doc/)和范例
+- 感谢[涂小丽](https://github.com/txl1123/OpenVINO-JavaScript-API)贡献[OpenVINO™ JavaScript API的安装文档](./doc/)和范例
+- 感谢[颜国进](https://github.com/guojin-yan)贡献[OpenVINO™ C# API的安装文档](./doc/)和范例
+- 感谢[黄明明](https://github.com/Hmm466)贡献[OpenVINO™ Java API的安装文档](./doc/)和范例
+- 感谢[王立奇](https://github.com/wangstoudamire)贡献[OpenVINO™ LabVIEW API的安装文档](./doc/)和范例
 
 
 

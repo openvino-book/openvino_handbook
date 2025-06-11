@@ -7,7 +7,7 @@
     <a >
         <img alt="Static Badge" src="https://img.shields.io/badge/Language-Python%2CC%2FC%2B%2B%2CC%23%2CJava%2CLabVIEW-blue">
     </a>    
-[![Mentioned in Awesome OpenVINO](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/openvinotoolkit/awesome-openvino)
+[![Mentioned in Awesome OpenVINO](https://awesome.re/mentioned-badge-flat.svg)]
 
 简体中文| [English](README_en.md)
 

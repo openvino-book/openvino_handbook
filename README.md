@@ -13,7 +13,7 @@
 
 #### 这是[《OpenVINO™ 工具套件权威指南》](https://item.jd.com/10150500500024.html)的Github Repo，该项目会根据OpenVINO的技术发展持续迭代，如使用中有问题，欢迎与我们沟通联系。如果对该项目感兴趣，也可以加入到我们的开发中来。🥰🥰🥰🥰
 
-[![Mentioned in Awesome OpenVINO](https://awesome.re/mentioned-badge-flat.svg)]
+[![Mentioned in Awesome OpenVINO](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/openvinotoolkit/awesome-openvino)
 
 ## 🚀 简介
 

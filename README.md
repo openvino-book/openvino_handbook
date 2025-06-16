@@ -42,7 +42,7 @@
 ## 📚 PaddlePaddle模型+OpenVINO项目案例
 1. [PP-OCRv4 + OpenVINO](https://github.com/openvino-book/PP-OCRv4_OpenVINO)
 2. [PP-OCRv5 + OpenVINO](https://github.com/openvino-book/PP-OCRv5_OpenVINO)
-3. 
+3. [PaddleOCR + OpenVINO + C#](https://github.com/guojin-yan/PaddleOCR-OpenVINO-CSharp)
 
 ## 🖥️ OpenVINO项目案例
 [1. 《C#中使用OpenVINO™：轻松集成AI模型！》](https://mp.weixin.qq.com/s/QYEF0uSI-nB5aTQ5BhzuBg)
@@ -50,7 +50,8 @@
 [2. 《在英特尔独立显卡上加速 HALCON AI 模型推理》](https://mp.weixin.qq.com/s/jReFStQP64wg6FJHGtu9WQ)
 
 [3. 《使用OpenVINO C# API轻松部署飞桨PP-OCRv4模型》](https://mp.weixin.qq.com/s/nc3IV7QnR_INRzAMxyYI0A)
-[4. 《使用OpenVINO™.CSharp.API在C#平台快速部署PP-OCRv5模型识别多场景文本》(https://mp.weixin.qq.com/s/9z1O9WH7UrHMpOiM8Ng1EA)]
+
+[4. 《使用OpenVINO™.CSharp.API在C#平台快速部署PP-OCRv5模型识别多场景文本》](https://mp.weixin.qq.com/s/9z1O9WH7UrHMpOiM8Ng1EA)]
 
 
 

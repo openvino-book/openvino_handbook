@@ -50,6 +50,7 @@
 [2. 《在英特尔独立显卡上加速 HALCON AI 模型推理》](https://mp.weixin.qq.com/s/jReFStQP64wg6FJHGtu9WQ)
 
 [3. 《使用OpenVINO C# API轻松部署飞桨PP-OCRv4模型》](https://mp.weixin.qq.com/s/nc3IV7QnR_INRzAMxyYI0A)
+[4. 《使用OpenVINO™.CSharp.API在C#平台快速部署PP-OCRv5模型识别多场景文本》(https://mp.weixin.qq.com/s/9z1O9WH7UrHMpOiM8Ng1EA)]
 
 
 

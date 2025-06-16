@@ -43,6 +43,7 @@
 1. [PP-OCRv4 + OpenVINO](https://github.com/openvino-book/PP-OCRv4_OpenVINO)
 2. [PP-OCRv5 + OpenVINO](https://github.com/openvino-book/PP-OCRv5_OpenVINO)
 3. [PaddleOCR + OpenVINO + C#](https://github.com/guojin-yan/PaddleOCR-OpenVINO-CSharp)
+4. [PaddleOCR + OpenVINO + LabVIEW](https://blog.csdn.net/virobotics/article/details/148481193)
 
 ## 🖥️ OpenVINO项目案例
 [1. 《C#中使用OpenVINO™：轻松集成AI模型！》](https://mp.weixin.qq.com/s/QYEF0uSI-nB5aTQ5BhzuBg)
